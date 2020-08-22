@@ -1,0 +1,133 @@
+2020-08-15T17:35:55.660Z Warning: --versiob is not a heroku command.
+2020-08-15T17:35:55.660Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/errors/lib/index.js:49:15)
+2020-08-15T17:35:55.660Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:136:30)
+2020-08-15T17:35:55.660Z     at Object.hook (/data/data/com.termux/files/home/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2020-08-15T17:35:55.660Z     at async /data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:35:55.660Z     at async Promise.all (index 0)
+2020-08-15T17:35:55.660Z     at async Promise.all (index 12)
+2020-08-15T17:35:55.660Z     at async Config.runHook (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:35:55.660Z     at async Config.runCommand (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:35:55.660Z     at async Main.run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:35:55.660Z     at async Main._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:35:58.469Z Error: Run heroku help for a list of available commands.
+2020-08-15T17:35:58.469Z     at Object.error (~/node_modules/@oclif/errors/lib/index.js:26:15)
+2020-08-15T17:35:58.470Z     at Object.error (~/node_modules/@oclif/config/lib/config.js:133:30)
+2020-08-15T17:35:58.470Z     at Object.hook (~/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2020-08-15T17:35:58.470Z     at async ~/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:35:58.470Z     at async Promise.all (index 0)
+2020-08-15T17:35:58.470Z     at async Promise.all (index 12)
+2020-08-15T17:35:58.470Z     at async Config.runHook (~/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:35:58.470Z     at async Config.runCommand (~/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:35:58.470Z     at async Main.run (~/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:36:54.148Z Warning: login is not a heroku command.
+2020-08-15T17:36:54.156Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/errors/lib/index.js:49:15)
+2020-08-15T17:36:54.156Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:136:30)
+2020-08-15T17:36:54.156Z     at Object.hook (/data/data/com.termux/files/home/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2020-08-15T17:36:54.156Z     at async /data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:36:54.156Z     at async Promise.all (index 0)
+2020-08-15T17:36:54.156Z     at async Promise.all (index 12)
+2020-08-15T17:36:54.156Z     at async Config.runHook (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:36:54.156Z     at async Config.runCommand (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:36:54.156Z     at async Main.run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:36:54.156Z     at async Main._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:36:57.912Z Error: Run heroku help for a list of available commands.
+2020-08-15T17:36:57.912Z     at Object.error (~/node_modules/@oclif/errors/lib/index.js:26:15)
+2020-08-15T17:36:57.912Z     at Object.error (~/node_modules/@oclif/config/lib/config.js:133:30)
+2020-08-15T17:36:57.912Z     at Object.hook (~/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2020-08-15T17:36:57.912Z     at async ~/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:36:57.912Z     at async Promise.all (index 0)
+2020-08-15T17:36:57.912Z     at async Promise.all (index 12)
+2020-08-15T17:36:57.912Z     at async Config.runHook (~/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:36:57.912Z     at async Config.runCommand (~/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:36:57.912Z     at async Main.run (~/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:37:09.146Z Error: Flag --app expects a value
+2020-08-15T17:37:09.146Z     at parseFlag (~/node_modules/@oclif/parser/lib/parse.js:78:27)
+2020-08-15T17:37:09.146Z     at Parser.parse (~/node_modules/@oclif/parser/lib/parse.js:100:21)
+2020-08-15T17:37:09.146Z     at Object.parse (~/node_modules/@oclif/parser/lib/index.js:27:27)
+2020-08-15T17:37:09.146Z     at V5.parse (~/node_modules/@oclif/command/lib/command.js:86:41)
+2020-08-15T17:37:09.146Z     at V5.run (~/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2020-08-15T17:37:09.146Z     at V5._run (~/node_modules/@oclif/command/lib/command.js:43:31)
+2020-08-15T17:37:31.280Z Warning: login is not a heroku command.
+2020-08-15T17:37:31.281Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/errors/lib/index.js:49:15)
+2020-08-15T17:37:31.281Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:136:30)
+2020-08-15T17:37:31.281Z     at Object.hook (/data/data/com.termux/files/home/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2020-08-15T17:37:31.281Z     at async /data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:37:31.281Z     at async Promise.all (index 0)
+2020-08-15T17:37:31.281Z     at async Promise.all (index 12)
+2020-08-15T17:37:31.281Z     at async Config.runHook (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:37:31.281Z     at async Config.runCommand (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:37:31.281Z     at async Main.run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:37:31.281Z     at async Main._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:37:36.243Z Error: Run heroku help for a list of available commands.
+2020-08-15T17:37:36.243Z     at Object.error (~/node_modules/@oclif/errors/lib/index.js:26:15)
+2020-08-15T17:37:36.243Z     at Object.error (~/node_modules/@oclif/config/lib/config.js:133:30)
+2020-08-15T17:37:36.243Z     at Object.hook (~/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2020-08-15T17:37:36.243Z     at async ~/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:37:36.243Z     at async Promise.all (index 0)
+2020-08-15T17:37:36.243Z     at async Promise.all (index 12)
+2020-08-15T17:37:36.243Z     at async Config.runHook (~/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:37:36.243Z     at async Config.runCommand (~/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:37:36.243Z     at async Main.run (~/node_modules/@oclif/command/lib/main.js:27:9)
+2020/08/15 17:37:36 Error: Command failed: heroku login
+    at checkExecSyncError (child_process.js:616:11)
+    at Object.execSync (child_process.js:652:15)
+    at relogin (/data/data/com.termux/files/home/node_modules/heroku-cli-util/lib/command.js:123:28)
+    at /data/data/com.termux/files/home/node_modules/heroku-cli-util/lib/command.js:162:18
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async V5._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+    at async Config.runCommand (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:173:24)
+    at async Main.run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/main.js:27:9)
+    at async Main._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:37:56.865Z Error: Missing required flag:
+2020-08-15T17:37:56.865Z  -a, --app APP  app to run command against
+2020-08-15T17:37:56.865Z See more help with --help
+2020-08-15T17:37:56.865Z     at validateFlags (~/node_modules/@oclif/parser/lib/validate.js:52:23)
+2020-08-15T17:37:56.865Z     at Object.validate (~/node_modules/@oclif/parser/lib/validate.js:56:5)
+2020-08-15T17:37:56.865Z     at Object.parse (~/node_modules/@oclif/parser/lib/index.js:28:7)
+2020-08-15T17:37:56.865Z     at V5.parse (~/node_modules/@oclif/command/lib/command.js:86:41)
+2020-08-15T17:37:56.865Z     at V5.run (~/node_modules/@oclif/plugin-legacy/lib/index.js:90:52)
+2020-08-15T17:37:56.865Z     at V5._run (~/node_modules/@oclif/command/lib/command.js:43:31)
+2020-08-15T17:39:46.910Z Warning: login is not a heroku command.
+2020-08-15T17:39:46.910Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/errors/lib/index.js:49:15)
+2020-08-15T17:39:46.910Z     at Object.warn (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:136:30)
+2020-08-15T17:39:46.910Z     at Object.hook (/data/data/com.termux/files/home/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2020-08-15T17:39:46.910Z     at async /data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:39:46.910Z     at async Promise.all (index 0)
+2020-08-15T17:39:46.910Z     at async Promise.all (index 12)
+2020-08-15T17:39:46.910Z     at async Config.runHook (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:39:46.910Z     at async Config.runCommand (/data/data/com.termux/files/home/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:39:46.910Z     at async Main.run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:39:46.910Z     at async Main._run (/data/data/com.termux/files/home/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:39:48.645Z Error: Run heroku help for a list of available commands.
+2020-08-15T17:39:48.645Z     at Object.error (~/node_modules/@oclif/errors/lib/index.js:26:15)
+2020-08-15T17:39:48.645Z     at Object.error (~/node_modules/@oclif/config/lib/config.js:133:30)
+2020-08-15T17:39:48.645Z     at Object.hook (~/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2020-08-15T17:39:48.645Z     at async ~/node_modules/@oclif/config/lib/config.js:151:21
+2020-08-15T17:39:48.645Z     at async Promise.all (index 0)
+2020-08-15T17:39:48.645Z     at async Promise.all (index 12)
+2020-08-15T17:39:48.645Z     at async Config.runHook (~/node_modules/@oclif/config/lib/config.js:161:9)
+2020-08-15T17:39:48.645Z     at async Config.runCommand (~/node_modules/@oclif/config/lib/config.js:168:13)
+2020-08-15T17:39:48.645Z     at async Main.run (~/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:41:03.284Z Error: HTTP Error 404 for GET https://cli-assets.heroku.com/android-arm64
+2020-08-15T17:41:03.284Z <html>
+2020-08-15T17:41:03.284Z <head><title>404 Not Found</title></head>
+2020-08-15T17:41:03.284Z <body>
+2020-08-15T17:41:03.284Z <h1>404 Not Found</h1>
+2020-08-15T17:41:03.284Z <ul>
+2020-08-15T17:41:03.284Z <li>Code: NoSuchKey</li>
+2020-08-15T17:41:03.284Z <li>Message: The specified key does not exist.</li>
+2020-08-15T17:41:03.284Z <li>Key: android-arm64</li>
+2020-08-15T17:41:03.284Z <li>RequestId: 8968B86E634437C9</li>
+2020-08-15T17:41:03.284Z <li>HostId: wCn83ZsrAnzdNwA/z1CV06VLGICzuc0bB8rst3SLezZvuiSIQEXgw6oyuil0dlWaed6a/VTxPcY=</li>
+2020-08-15T17:41:03.284Z </ul>
+2020-08-15T17:41:03.284Z <hr/>
+2020-08-15T17:41:03.284Z </body>
+2020-08-15T17:41:03.284Z </html>
+2020-08-15T17:41:03.284Z     at HTTP._request (~/node_modules/http-call/lib/http.js:215:19)
+2020-08-15T17:41:03.284Z     at async Function.request (~/node_modules/http-call/lib/http.js:162:9)
+2020-08-15T17:41:03.284Z     at async UpdateCommand.fetchManifest (~/node_modules/@oclif/plugin-update/lib/commands/update.js:46:30)
+2020-08-15T17:41:03.284Z     at async UpdateCommand.run (~/node_modules/@oclif/plugin-update/lib/commands/update.js:26:26)
+2020-08-15T17:41:03.284Z     at async UpdateCommand._run (~/node_modules/@oclif/command/lib/command.js:43:20)
+2020-08-15T17:41:03.284Z     at async Config.runCommand (~/node_modules/@oclif/config/lib/config.js:173:24)
+2020-08-15T17:41:03.284Z     at async Main.run (~/node_modules/@oclif/command/lib/main.js:27:9)
+2020-08-15T17:41:03.284Z     at async Main._run (~/node_modules/@oclif/command/lib/command.js:43:20)
